@@ -14,8 +14,8 @@ Download the entire repository in one folder.
 Set pwd to this repo folder
 
 Command to run the Web Server
-``` python
-$ python main.py`
+``` shell
+$ python main.py
 
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 127.0.0.1 - - [21/Feb/2017 18:32:33] "GET /posts HTTP/1.1" 200 -
