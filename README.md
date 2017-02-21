@@ -1,4 +1,4 @@
-# PostAPI
+# Blog Post API Assignment
 Language used : Python 2.7.13
 
 Blog Post API Assignment
@@ -10,9 +10,13 @@ install instruction for Flask
 
 # Running main Python program
 Download the entire repository in one folder.
+
 Set pwd to this repo folder
+
 Command to run the Web Server
+
 `$ python main.py`
+
 ``` python
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 127.0.0.1 - - [21/Feb/2017 18:32:33] "GET /posts HTTP/1.1" 200 -
