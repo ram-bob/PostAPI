@@ -42,9 +42,9 @@ Date: Tue, 21 Feb 2017 12:26:51 GMT
 {
   "results": [
     {
-      "body": "body1",
+      "body": "Blog Body",
       "post_id": "1",
-      "title": "tille1"
+      "title": "Blog Title"
     }
   ]
 }
