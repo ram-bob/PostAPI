@@ -18,7 +18,6 @@ Command to run the Web Server
 $ python main.py
 
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-127.0.0.1 - - [21/Feb/2017 18:32:33] "GET /posts HTTP/1.1" 200 -
 ```
 
 
@@ -30,7 +29,7 @@ HTTP/1.0 200 OK
 Content-Type: text/html; charset=utf-8
 Content-Length: 4
 Server: Werkzeug/0.11.15 Python/2.7.13
-Date: Tue, 21 Feb 2017 13:00:46 GMT
+Date: Tue, 21 Feb 2017 13:00:46 UTC
 
 Done
 
@@ -42,7 +41,7 @@ HTTP/1.0 200 OK
 Content-Type: application/json
 Content-Length: 106
 Server: Werkzeug/0.11.15 Python/2.7.13
-Date: Tue, 21 Feb 2017 12:26:51 GMT
+Date: Tue, 21 Feb 2017 12:26:51 UTC
 
 {
   "results": [
