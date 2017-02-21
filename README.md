@@ -4,12 +4,14 @@ Language used : Python 2.7.13
 Blog Post API Assignment
 
 # API Framework used is flask(http://flask.pocoo.org/docs/0.12/)
-install instruction
+install instruction for Flask
 
 `$ pip install Flask`
 
 # Running main Python program
-Command to run
+Download the entire repository in one folder.
+Set pwd to this repo folder
+Command to run the Web Server
 `$ python main.py`
 ``` python
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
