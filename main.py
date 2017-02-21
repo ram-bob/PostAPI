@@ -8,7 +8,7 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 @app.route("/posts", methods=['GET'])
-def post():
+def posts():
     conn = sqlite3.connect('blog.db')
     cursor = conn.execute("SELECT post_id, title, body from posts")
     list=[]
